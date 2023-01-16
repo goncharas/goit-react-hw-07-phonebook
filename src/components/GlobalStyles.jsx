@@ -42,7 +42,7 @@ export const WarningMessage = styled.p`
   color: #082911;
 `;
 
-export const CirclesStyled = {
+export const VortexStyled = {
   color: '#082911',
   width: '70',
   visible: true,
